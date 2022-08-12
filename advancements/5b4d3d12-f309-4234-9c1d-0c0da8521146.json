@@ -457,6 +457,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-08-12 19:53:02 +0800",
       "minecraft:skeleton": "2022-08-02 17:13:35 +0800",
       "minecraft:spider": "2022-08-09 22:26:49 +0800",
       "minecraft:creeper": "2022-08-11 15:23:45 +0800",
@@ -546,6 +547,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-10 17:33:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-08-12 19:53:49 +0800"
     },
     "done": true
   },
