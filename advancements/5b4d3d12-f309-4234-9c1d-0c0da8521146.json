@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-16 22:33:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-14 22:22:40 +0800"
@@ -1560,6 +1566,7 @@
       "suspicious_stew": "2022-08-15 23:18:16 +0800",
       "melon_slice": "2022-08-11 17:15:02 +0800",
       "cooked_chicken": "2022-08-03 18:09:24 +0800",
+      "rabbit_stew": "2022-08-16 21:47:53 +0800",
       "carrot": "2022-08-15 18:00:15 +0800"
     },
     "done": false
